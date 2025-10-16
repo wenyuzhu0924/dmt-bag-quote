@@ -1,7 +1,3 @@
-// src/lib/calc.ts
-// 中文版袋子自动报价系统核心逻辑（含公式与文字说明）
-// 作者：Wenyu 定制版
-
 export type BagType = '三边封' | '自立袋' | '中封袋' | '风琴袋' | '八边封' | '异形袋'
 
 export interface Accessories {
